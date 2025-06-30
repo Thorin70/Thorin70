@@ -91,6 +91,4 @@ I'm a Full Stack Developer with a passion for building user-friendly application
 </div>
 
 ---
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thorin70&color=blue" alt="Profile Views" />
-</div>
+
