@@ -82,6 +82,12 @@ I'm a Full Stack Developer with a passion for building user-friendly application
 - Threaded comments, likes, and view tracking
 - User authentication system
 
+### 🎥 YT ReVanced Hub
+- Built with TypeScript, React, and TailwindCSS
+- Modern web interface for YT ReVanced distribution
+- Features ad-free experience and enhanced playback options
+- Secure, privacy-focused implementation
+- Deployed on Netlify with automated build process
 
 ## 🤝 Connect With Me
 <div align="center">
