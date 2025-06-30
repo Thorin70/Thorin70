@@ -83,6 +83,7 @@ I'm a Full Stack Developer with a passion for building user-friendly application
 - User authentication system
 
 ### 🎥 YT ReVanced Hub
+- 🔗 [Live Demo](https://yt-ad-free-android.netlify.app/) | [GitHub](https://github.com/Thorin70/yt--ad--free)
 - Built with TypeScript, React, and TailwindCSS
 - Modern web interface for YT ReVanced distribution
 - Features ad-free experience and enhanced playback options
