@@ -11,7 +11,7 @@
 </div>
 
 ## 💫 About Me
-I'm a Full Stack Developer with a passion for building user-friendly applications and exploring new technologies. My goal is to create simple and fast solutions that make a real impact.
+I'm a Full Stack Developer with a passion for building user-friendly applications and exploring new technologies. Experienced in **ML & Data Science** projects. My goal is to create simple and fast solutions.
 
 ## 🛠️ Skills & Technologies
 
@@ -59,35 +59,29 @@ I'm a Full Stack Developer with a passion for building user-friendly application
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-## 🚀 Projects
+## 💻 Projects
 
-### Sentiment Analysis Web Application
+### 🤖 Sentiment Analysis Web Application
 - Built using Streamlit, Python, and Scikit-learn
 - IMDB review classification using Logistic Regression and Random Forest models
 - NLP preprocessing with NLTK & TF-IDF
 - Interactive visualizations using Plotly
 - Real-time sentiment prediction capabilities
 
-### Healthcare Analytics Dashboard
+### 📊 Healthcare Analytics Dashboard
 - Developed with Streamlit, Pandas, Scikit-learn, and Folium
 - Analysis of 6 years of pharmaceutical sales data
 - Implemented Naïve Bayes–based disease predictor
 - Geospatial modeling and interactive visualizations
 - Multi-frequency time-series data analysis
 
-### Django Blog Application
+### ✍️ Django Blog Application
 - Full-featured CMS built with Django and Tailwind CSS
 - Integrated CKEditor for rich text editing
 - Post approval system and media handling
 - Threaded comments, likes, and view tracking
 - User authentication system
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thorin70&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thorin70&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ## 🤝 Connect With Me
 <div align="center">
