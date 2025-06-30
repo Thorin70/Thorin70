@@ -15,6 +15,10 @@ I'm a Full Stack Developer with a passion for building user-friendly application
 
 ## 👨‍💻 Check Out My Repos
 
+Explore all my repositories on GitHub:
+
+🔗 [GitHub Profile](https://github.com/Thorin70?tab=repositories)
+
 ## 🛠️ Skills & Technologies
 
 ### Languages
