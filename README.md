@@ -69,6 +69,7 @@ I'm a Full Stack Developer with a passion for building user-friendly application
 - Real-time sentiment prediction capabilities
 
 ### 📊 Healthcare Analytics Dashboard
+[GitHub](https://github.com/Thorin70/Assessing-disease-prevalence-through-medicines-sales-in-a-particular-area)
 - Developed with Streamlit, Pandas, Scikit-learn, and Folium
 - Analysis of 6 years of pharmaceutical sales data
 - Implemented Naïve Bayes–based disease predictor
