@@ -6,7 +6,7 @@
   <p>🚀 Passionate about creating simple and efficient solutions</p>
   
   [![GitHub followers](https://img.shields.io/github/followers/Thorin70?style=social)](https://github.com/Thorin70)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR_LINKEDIN)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yasar-beg-5946ab367/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success)](https://YOUR_PORTFOLIO)
 </div>
 
