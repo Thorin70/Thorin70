@@ -76,6 +76,7 @@ I'm a Full Stack Developer with a passion for building user-friendly application
 - Multi-frequency time-series data analysis
 
 ### ✍️ Django Blog Application
+ [Live Demo](https://john7000.pythonanywhere.com/) | [GitHub](https://github.com/Thorin70/django-vlog))
 - Full-featured CMS built with Django and Tailwind CSS
 - Integrated CKEditor for rich text editing
 - Post approval system and media handling
