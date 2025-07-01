@@ -72,6 +72,7 @@ Explore all my repositories on GitHub:
 ## 💻 Projects
 
 ### 🤖 Sentiment Analysis Web Application
+  [Live Demo](https://sentiment-analysis-web-application-ttfuyjrhljpudnlviouwnb.streamlit.app/) | [Github](https://github.com/Thorin70/Sentiment_analysis_webapp)
 - Built using Streamlit, Python, and Scikit-learn
 - IMDB review classification using Logistic Regression and Random Forest models
 - NLP preprocessing with NLTK & TF-IDF
@@ -79,7 +80,7 @@ Explore all my repositories on GitHub:
 - Real-time sentiment prediction capabilities
 
 ### 📊 Healthcare Analytics Dashboard
-[GitHub](https://github.com/Thorin70/Assessing-disease-prevalence-through-medicines-sales-in-a-particular-area)
+  [GitHub](https://github.com/Thorin70/Assessing-disease-prevalence-through-medicines-sales-in-a-particular-area)
 - Developed with Streamlit, Pandas, Scikit-learn, and Folium
 - Analysis of 6 years of pharmaceutical sales data
 - Implemented Naïve Bayes–based disease predictor
@@ -87,7 +88,7 @@ Explore all my repositories on GitHub:
 - Multi-frequency time-series data analysis
 
 ### ✍️ Django Blog Application
- [Live Demo](https://john7000.pythonanywhere.com/) | [GitHub](https://github.com/Thorin70/django-vlog))
+  [Live Demo](https://john7000.pythonanywhere.com/) | [GitHub](https://github.com/Thorin70/django-vlog))
 - Full-featured CMS built with Django and Tailwind CSS
 - Integrated CKEditor for rich text editing
 - Post approval system and media handling
@@ -95,7 +96,7 @@ Explore all my repositories on GitHub:
 - User authentication system
 
 ### 🎥 YT ReVanced Hub
-- 🔗 [Live Demo](https://yt-ad-free-android.netlify.app/) | [GitHub](https://github.com/Thorin70/yt--ad--free)
+- [Live Demo](https://yt-ad-free-android.netlify.app/) | [GitHub](https://github.com/Thorin70/yt--ad--free)
 - Built with TypeScript, React, and TailwindCSS
 - Modern web interface for YT ReVanced distribution
 - Features ad-free experience and enhanced playback options
