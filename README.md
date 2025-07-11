@@ -72,7 +72,7 @@ Explore all my repositories on GitHub:
 ## 💻 Projects
 
 ### 🤖 Sentiment Analysis Web Application
-  [Live Demo](https://sentiment-analysis-web-application-ttfuyjrhljpudnlviouwnb.streamlit.app/) | [Github](https://github.com/Thorin70/Sentiment_analysis_webapp)
+  [Live Demo](https://sentiment-analysis-web-application-bd8ysyyrn3ukrmwyfuhjbs.streamlit.app/) | [Github](https://github.com/Thorin70/Sentiment_analysis_webapp)
 - Built using Streamlit, Python, and Scikit-learn
 - IMDB review classification using Logistic Regression and Random Forest models
 - NLP preprocessing with NLTK & TF-IDF
