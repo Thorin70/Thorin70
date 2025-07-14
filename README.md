@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+a+Full+Stack+Developer;Machine+Learning+%26+AI+Enthusiast;Building+User-Focused+and+Simple+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Thorin70+a+Full+Stack+Developer;Machine+Learning+%26+AI+Enthusiast;Building+User-Focused+and+Simple+Solutions" alt="Typing SVG" />
 </div>
 
 
@@ -9,7 +9,7 @@
 <div align="center">
   <p>🚀 Passionate about creating simple and efficient solutions</p>
   
-  [![GitHub followers](https://img.shields.io/github/followers/Thorin70?style=social)](https://github.com/Thorin70)
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yasar-beg-5946ab367/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success)](https://portfolioyasar.netlify.app/)
 </div>
