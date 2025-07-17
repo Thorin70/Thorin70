@@ -13,8 +13,13 @@
   <p>🚀 Passionate about creating simple and efficient solutions</p>
   
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yasar-beg-5946ab367/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success)](https://portfolioyasar.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasar-beg-5946ab367/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolioyasar.netlify.app/)
+
+
+
+
+  
 </div>
 
 ## 💫 About Me
