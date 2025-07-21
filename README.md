@@ -14,7 +14,8 @@
   
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasar-beg-5946ab367/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolioyasar.netlify.app/)
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-302F2F?style=for-the-badge&logo=github&logoColor=white)](https://portfolioyasar.netlify.app/)
+
 
 
 
