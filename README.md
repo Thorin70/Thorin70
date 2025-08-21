@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Thorin70+a+Full+Stack+Developer;Machine+Learning+%26+AI+Enthusiast;Building+User-Focused+and+Simple+Solutions" alt="Typing SVG" />
 </div>
 
-📄 [View My Resume](https://drive.google.com/file/d/1eLVpX2GtZdrJHwv5-BwbyT_gdBEAGJvn/view?usp=drive_link)
+📄 [View My Resume](https://drive.google.com/file/d/15Kk0qVPWj9SogV5iulkGymwnjz8OJj-D/view?usp=drive_link)
 
 
 
